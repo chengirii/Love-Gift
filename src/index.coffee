@@ -134,7 +134,7 @@ pre em:not(.comment) { font-style: normal; }
  */
 
 #heart i::before {
-  content: 'Kevinchang';
+  content: 'Kevin';
   position: absolute;
   z-index: 9;
   width: 100%;
@@ -253,7 +253,7 @@ pre em:not(.comment) { font-style: normal; }
 /* "my love gift" v0.0.1
  * Robot rights protected under BOT License & Apache2 license
  * Inspired by pen#PwLXXP
- * 谨以此网页献给我的女朋友媛圆💕
+ * 谨以此网页献给我的女朋友Kath💕
  */
 """
 finalStyle = styles
